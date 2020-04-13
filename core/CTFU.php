@@ -14,7 +14,9 @@ class CTFU
         "utm_term" => '',
         "utm_creative" => '',
         "gclid" => '',
-        'referrer' => ''
+        'referrer' => '',
+        'fbclid ' => '',
+        'fb' => ''
     );
 
     private $suspsterms = array(
